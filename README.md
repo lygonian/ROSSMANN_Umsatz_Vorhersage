@@ -1,5 +1,5 @@
 # ROSSMANN Filialen - Eine ausführliche Umsatzanalyse
-Mit diesem Projekt vertiefe ich meine Fähigkeiten als DataScientist. Dafür analysiere ich historischen Verkaufsdaten, visualisiere gewonnene Erkentnisse und wende maschinelle Lernmodelle ein um Umsatzprognosen für 8 Wochen zu erstellen.
+Mit diesem Projekt vertiefe ich meine Fähigkeiten als DataScientist. Dafür analysiere ich historischen Verkaufsdaten, visualisiere gewonnene Erkentnisse und wende maschinelle Lernmodelle am um Umsatzprognosen für 8 Wochen zu erstellen.
 
 ![Alt text](/Ausgewählte_Plots/Rossmann_Außenansicht_Innenstadtlage.jfif)
 (Bildquelle: https://de.wikipedia.org/wiki/Rossmann_(Handelskette)#/media/Datei:Rossmann_Au%C3%9Fenansicht_Innenstadtlage.JPG)
@@ -19,17 +19,17 @@ Die Bearbeitung der Aufgaben unterteilt sich in 4 Bereiche:
 ### 1. Datenvorbereitung:
 - Übersetzen
 - Korrigieren der Datentypen und transformieren von kategorialen Variablen
-- Behandeln von duplizierten und fehlenden Werten durch simple Imputation und Vorhergesagter Imputation
-- Erstellen zusätzlicher Features durch Feature-Engineering wie...
-        - ... Ermittlung der Bundesländer durch das Feature Schulferien
+- Behandeln von duplizierten und fehlenden Werten durch simple Imputation und Imputation mittels machinellem Lernen
+- Erstellen zusätzlicher Features durch Feature-Engineering wie...  
+        - ... Ermittlung der Bundesländer durch das Feature Schulferien  
         - ... Gruppierung der Filialen nach Leistung
 
 ### 2. Explorative Datenanalyse
 - systematische Analyse der Key Performance Indicators (Umsatz pro Tag, Kunden pro Tag und Umsatz pro Kunde) für alle Features und Kombinationen
 - Darstellung als normierte Werte in interaktiven pyplot Diagrammen
 - einige Erkenntnisse:
-    - Top-Filialen befinden sich Baden-Württemberg, Hessen, Rheinland-Pfalz, Sachsen-Anhalt und sind nur vom Typ d-basic, d-extended
-    - Schlechteste Filialen befinden sich in Baden-Württemberg, Bayern, Hessen, NRW, Rheinland-Pfalz und sind nur vom Typ a-basic, b-extra und c-basic.
+    - Top12-Filialen befinden sich in Baden-Württemberg, Hessen, Rheinland-Pfalz, Sachsen-Anhalt und sind nur vom Typ d-basic, d-extended
+    - Schlechteste12 Filialen befinden sich in Baden-Württemberg, Bayern, Hessen, NRW, Rheinland-Pfalz und sind nur vom Typ a-basic, b-extra und c-basic.
     - Höchster Umsatz pro Tag wurde in Berlin erreicht, aber der höchste Umsatz pro Kunde in Bayern.
     - b-extended nimmt nicht an Promo2 teil, erzielt aber den höchsten Umsatz an regulären Tagen und während Promo.
     - Sortimente basic und extended profitieren am meisten von Promotions.
@@ -51,7 +51,7 @@ Die Bearbeitung der Aufgaben unterteilt sich in 4 Bereiche:
 - Datengerüst für Zukunftsvorhersage imputieren
 
 ### 4. Filialbericht-Generator
-- Fililabericht mit Daten und Grafiken durch Eingabe der Filialnummer
+- Generierung des Fililaberichts mit Daten und Grafiken durch Eingabe der Filialnummer
 
 ## Future Implications 
 Regionale Strategien:  
