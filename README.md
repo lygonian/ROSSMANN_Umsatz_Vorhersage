@@ -20,9 +20,9 @@ Die Bearbeitung der Aufgaben unterteilt sich in 4 Bereiche:
 - Übersetzen
 - Korrigieren der Datentypen und transformieren von kategorialen Variablen
 - Behandeln von duplizierten und fehlenden Werten durch simple Imputation und Imputation mittels machinellem Lernen
-- Erstellen zusätzlicher Features durch Feature-Engineering wie...  
-        - ... Ermittlung der Bundesländer durch das Feature Schulferien  
-        - ... Gruppierung der Filialen nach Leistung
+- Erstellen zusätzlicher Features durch Feature-Engineering wie
+    - Ermittlung der Bundesländer durch das Feature Schulferien
+    - Gruppierung der Filialen nach Leistung
 
 ### 2. Explorative Datenanalyse
 - systematische Analyse der Key Performance Indicators (Umsatz pro Tag, Kunden pro Tag und Umsatz pro Kunde) für alle Features und Kombinationen
