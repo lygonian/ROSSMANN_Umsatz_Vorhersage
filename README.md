@@ -9,10 +9,10 @@ Die Daten stammen aus dem Rossmann Store Sales-Wettbewerb auf Kaggle und dienen 
 
 ## Projektstruktur
 0. Gesamtes Notebook [hier](https://nbviewer.org/github/lygonian/ROSSMANN_Umsatz_Vorhersage/blob/master/Notebooks/1_complete.ipynb#toc1_4_)
-1. Datenvorbereitung [hier](/Notebooks/2_Datenvorbereitung.ipynb)
-2. Explorative Datenanalyse [hier](/Notebooks/3_Explorative_Datenanalyse.ipynb)
-3. Umsatzvorhersage mittels machinellem Learning [hier](/Notebooks/4_MachineLearning_Vorhersage.ipynb)
-4. Filialbericht-Generator [hier](/Notebooks/5_Filialbericht_Generator.ipynb)
+1. Datenvorbereitung [hier](https://nbviewer.org/github/lygonian/ROSSMANN_Umsatz_Vorhersage/blob/master/Notebooks/2_Datenvorbereitung.ipynb)
+2. Explorative Datenanalyse [hier](https://nbviewer.org/github/lygonian/ROSSMANN_Umsatz_Vorhersage/blob/master/Notebooks/3_Explorative_Datenanalyse.ipynb)
+3. Umsatzvorhersage mittels machinellem Learning [hier](https://nbviewer.org/github/lygonian/ROSSMANN_Umsatz_Vorhersage/blob/master/Notebooks/4_MachineLearning_Vorhersage.ipynb)
+4. Filialbericht-Generator [hier](https://nbviewer.org/github/lygonian/ROSSMANN_Umsatz_Vorhersage/blob/master/Notebooks/5_Filialbericht_Generator.ipynb)
 
 ## Aufgabenstellung
 Die Bearbeitung der Aufgaben unterteilt sich in 4 Bereiche:
