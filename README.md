@@ -8,7 +8,7 @@ Mit diesem Projekt vertiefe ich meine Fähigkeiten als DataScientist. Dafür ana
 Die Daten stammen aus dem Rossmann Store Sales-Wettbewerb auf Kaggle und dienen als Abschlussprüfung für meine Weiterbildung als DataScientist. Sie umfassen historische Verkaufsdaten (2,5 Jahre) von 1115 Rossmann-Filialen sowie zusätzliche Informationen zu jedem Verkaufstag wie Kundenzahl, Werbeaktionen, Feiertage und diverse Weitere.
 
 ## Projektstruktur
-0. Gesamtes Notebook [hier](/Notebooks/1_complete.ipynb)
+0. Gesamtes Notebook [hier](https://nbviewer.org/github/lygonian/ROSSMANN_Umsatz_Vorhersage/blob/master/Notebooks/1_complete.ipynb#toc1_4_)
 1. Datenvorbereitung [hier](/Notebooks/2_Datenvorbereitung.ipynb)
 2. Explorative Datenanalyse [hier](/Notebooks/3_Explorative_Datenanalyse.ipynb)
 3. Umsatzvorhersage mittels machinellem Learning [hier](/Notebooks/4_MachineLearning_Vorhersage.ipynb)
